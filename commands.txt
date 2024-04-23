@@ -1,0 +1,11 @@
+==============  commands for jarvis  ================
+
+
+
+wikipedia [topic]   = searches a topic in wikipedia
+open youtube  = opens youtube
+open google = opens google
+open reddit = opens reddit
+play music = plays music if you have songs_dir in the same folder as jarvis.py file
+tell time = tells current time
+email to harry = email to the person called harry
